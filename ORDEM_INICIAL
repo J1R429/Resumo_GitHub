@@ -5,3 +5,10 @@
 3- git pull
 
 4- git push
+
+
+
+<PARA O GIT SABER QUEM VC É>
+git config --local user.name "Seu nome aqui"
+git config --local user.email "seu@email.aqui"
+<>
