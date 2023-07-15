@@ -178,9 +178,11 @@ Execute o comando git push local master para enviar as suas alterações;
 33) Agora sim, execute o comando git push local master para enviar as alterações.
 
 
-<h2></h2>
-<h2></h2>
+<h2>TAG</h2>
+Uma Tag no Git é uma referência estática a um ponto específico na história do seu repositório. Ela é usada para marcar commits importantes, como versões estáveis, marcos de desenvolvimento ou releases principais. Basicamente, uma Tag é uma forma de nomear um commit específico para que você possa referenciá-lo facilmente posteriormente.
 
+<h2>RELEASE</h2>
+Uma Release no GitHub é uma versão específica do seu projeto que é disponibilizada para download ou deploy. É uma forma de empacotar um conjunto de arquivos do seu repositório em um formato que possa ser facilmente distribuído. Uma Release geralmente contém arquivos compilados, binários, documentação ou qualquer outra coisa necessária para distribuir seu software.
 
 
 
