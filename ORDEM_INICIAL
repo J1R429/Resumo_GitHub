@@ -12,3 +12,7 @@
 git config --local user.name "Seu nome aqui"
 git config --local user.email "seu@email.aqui"
 <>
+
+
+<PARA INICIAR UM REPOSITÓRIO>
+1) dentro da pasta que deseja ser um repositorio, abrir terminal de comando, e usar o GIT INIT, isso cria a pasta .git
