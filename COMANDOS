@@ -13,6 +13,7 @@ GIT COMMIT -m "<MENSAGEM DO COMMIT>" ¬ PARA REALIZAR COMMIT
 git checkout -b "<nome da nova branch>" ¬ para criar uma nova branch
 git checkout <nome da branch que quer ir> ¬ para mudar de branch
 cd <nome do arquiv> ¬ para entrar num arquivo especifico
+git clone <caminho url> ¬ criar uma cópia de um repositório remoto em um diretório da máquina.
 
 D
 E
@@ -25,8 +26,11 @@ GIT INIT ¬ INICIA UM REPOSITORIO FACIL
 J
 K
 L
+git log ¬ É utilizado para ver o histórico de alterações do projeto
+
 M
 git merge <nome da branch que quer juntar> ¬ para juntar duas branch, necessário estar na branch considerada principal, a outra irá sumir
+
 N
 O
 P
