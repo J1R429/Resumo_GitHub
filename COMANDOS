@@ -29,7 +29,9 @@ J
 K
 L
 git log ¬ É utilizado para ver o histórico de alterações do projeto
+git log --graf ¬ mostrar as linhas de comando d desenvolvimento
 ls ¬ listar os arquivos da pasta
+
 M
 git merge <nome da branch que quer juntar> ¬ para juntar duas branch, necessário estar na branch considerada principal, a outra irá sumir
 mkdir <nome> ¬ cria uma nova pasta
@@ -49,6 +51,7 @@ git remote add origin <link do repositorio> ¬ utilizar o inset para colar - ped
 git remote ¬ lista repositorios remotos
 git remote add ¬ adiciona repositorio remoto
 git remote -v ¬ mostra o endereço do repositorio remoto
+rebase ¬ diferente da marg que só altera a linha, neste comando a o transporte do codigo fazendo com que fique integrado 
 
 S
 GIT STATUS ¬ MOSTRA O STATUS DO DOCUMENTO
