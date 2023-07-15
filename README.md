@@ -42,7 +42,11 @@ __________
 
 
 
-<h2></h2>
+<h2>CURIOSIDADES</h2>
+HEAD: Estado atual do nosso código, ou seja, onde o Git os colocou
+Working tree: Local onde os arquivos realmente estão sendo armazenados e editados
+index: Local onde o Git armazena o que será commitado, ou seja, o local entre a working tree e o repositório Git em si.
+
 <h2></h2>
 <h2></h2>
 <h2></h2>
