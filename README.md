@@ -47,7 +47,11 @@ HEAD: Estado atual do nosso código, ou seja, onde o Git os colocou
 Working tree: Local onde os arquivos realmente estão sendo armazenados e editados
 index: Local onde o Git armazena o que será commitado, ou seja, o local entre a working tree e o repositório Git em si.
 
-<h2></h2>
+<h2>GIT IGNORE</h2>
+- criar um arquivo com o nome .gitignoore, dentro dele em cada linha colocar os nomes dos arquivos que você quer que o github ignore e não monitore o status
+
+
+
 <h2></h2>
 <h2></h2>
 <h2></h2>
