@@ -1,9 +1,18 @@
  ¯\_(ツ)_/¯
 
 A
+GIT ADD <NOME DO ARQUIVO QUE QUER MANDAR>¬ MANDA OS ARQUIVOS PARA A AREA DE STATIN
+git add . ¬ para não precisa colocar o nome de um arquivo em especifico colaca o <.>, assim tudo que foi ateradp irá subir
+
 B
+- git branch - M '<nome da branch>' ¬ para mudar de branch 
+
 C
 GIT COMMIT --AMEND  ¬ alterar a mensagem do ultimo commit 
+GIT COMMIT -m "<MENSAGEM DO COMMIT>" ¬ PARA REALIZAR COMMIT
+git checkout -b "<nome da nova branch>" ¬ para criar uma nova branch
+git checkout <nome da branch que quer ir> ¬ para mudar de branch
+cd <nome do arquiv> ¬ para entrar num arquivo especifico
 
 D
 E
@@ -11,19 +20,29 @@ F
 G
 H
 I
+GIT INIT ¬ INICIA UM REPOSITORIO FACIL
+
 J
 K
 L
 M
+git merge <nome da branch que quer juntar> ¬ para juntar duas branch, necessário estar na branch considerada principal, a outra irá sumir
 N
 O
 P
+git push -u origin main ¬ empurrão do repositorio remato para o repositorio do site, usado na primeira vez
+git pusn origin main ¬ empurrão usado quando não é a primeira vez
+git pull ¬ puxar o repositorio do site para a maquina/remoto
+
 Q
 R
 GIT REFLOG  ¬ você vai ver uma lista de tudo o que fez
 GIT RESET ¬ utilizar para recuperação
+git remote add origin <link do repositorio> ¬ utilizar o inset para colar - pedir conexão do repositorio local com o do site, utilizado apenas na primeira vez
 
 S
+GIT STATUS ¬ MOSTRA O STATUS DO DOCUMENTO
+
 T
 U
 V
