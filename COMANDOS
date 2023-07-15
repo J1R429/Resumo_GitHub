@@ -13,6 +13,7 @@ GIT COMMIT -m "<MENSAGEM DO COMMIT>" ¬ PARA REALIZAR COMMIT
 git checkout -b "<nome da nova branch>" ¬ para criar uma nova branch
 git checkout <nome da branch que quer ir> ¬ para mudar de branch
 cd <nome do arquiv> ¬ para entrar num arquivo especifico
+cd .. ¬ para subir uma pasta
 git clone <caminho url> ¬ criar uma cópia de um repositório remoto em um diretório da máquina.
 
 D
@@ -22,6 +23,7 @@ G
 H
 I
 GIT INIT ¬ INICIA UM REPOSITORIO FACIL
+git init --bare ¬ designar a pasta para ser pura, ou seja, apenas guardar as alterações do codigo que estará em outra pasta (cria um repositório que não terá a working tree, ou seja, não conterá uma cópia dos nossos arquivos. Como o repositório servirá apenas como servidor, para que outros membros da equipe sincronizem seus trabalhos, poupamos espaço de armazenamento desta forma.)
 
 J
 K
@@ -30,6 +32,7 @@ git log ¬ É utilizado para ver o histórico de alterações do projeto
 ls ¬ listar os arquivos da pasta
 M
 git merge <nome da branch que quer juntar> ¬ para juntar duas branch, necessário estar na branch considerada principal, a outra irá sumir
+mkdir <nome> ¬ cria uma nova pasta
 
 N
 O
@@ -43,6 +46,9 @@ R
 GIT REFLOG  ¬ você vai ver uma lista de tudo o que fez
 GIT RESET ¬ utilizar para recuperação
 git remote add origin <link do repositorio> ¬ utilizar o inset para colar - pedir conexão do repositorio local com o do site, utilizado apenas na primeira vez
+git remote ¬ lista repositorios remotos
+git remote add ¬ adiciona repositorio remoto
+git remote -v ¬ mostra o endereço do repositorio remoto
 
 S
 GIT STATUS ¬ MOSTRA O STATUS DO DOCUMENTO
