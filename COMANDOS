@@ -27,7 +27,7 @@ J
 K
 L
 git log ¬ É utilizado para ver o histórico de alterações do projeto
-
+ls ¬ listar os arquivos da pasta
 M
 git merge <nome da branch que quer juntar> ¬ para juntar duas branch, necessário estar na branch considerada principal, a outra irá sumir
 
