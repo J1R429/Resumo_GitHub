@@ -2,10 +2,12 @@
 
 A
 GIT ADD <NOME DO ARQUIVO QUE QUER MANDAR>¬ MANDA OS ARQUIVOS PARA A AREA DE STATIN
-git add . ¬ para não precisa colocar o nome de um arquivo em especifico colaca o <.>, assim tudo que foi ateradp irá subir
+git add . ¬ para não precisa colocar o nome de um arquivo em especifico colaca o <.>, assim tudo que foi ateradp irá subir, realizar o commit
 
 B
-- git branch - M '<nome da branch>' ¬ para mudar de branch 
+git branch - M '<nome da branch>' ¬ para mudar de branch 
+git branch <nome> ¬ cria a branch
+git branch -list ¬ para ver as branchs existentes
 
 C
 GIT COMMIT --AMEND  ¬ alterar a mensagem do ultimo commit 
@@ -45,8 +47,8 @@ N
 O
 P
 git push -u origin main ¬ empurrão do repositorio remato para o repositorio do site, usado na primeira vez
-git pusn origin main ¬ empurrão usado quando não é a primeira vez
-git pull ¬ puxar o repositorio do site para a maquina/remoto
+git push origin main ¬ empurrão usado quando não é a primeira vez
+git pull ¬ puxar o repositorio do site para a maquina
 
 Q
 R
