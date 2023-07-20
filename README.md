@@ -185,7 +185,8 @@ Uma Tag no Git é uma referência estática a um ponto específico na história 
 Uma Release no GitHub é uma versão específica do seu projeto que é disponibilizada para download ou deploy. É uma forma de empacotar um conjunto de arquivos do seu repositório em um formato que possa ser facilmente distribuído. Uma Release geralmente contém arquivos compilados, binários, documentação ou qualquer outra coisa necessária para distribuir seu software.
 
 
-
+<h2>FASES</h2>
+![image](https://github.com/jessicacanela/Resumo_GitHub/assets/123896356/cee736e6-1bbd-436f-87ab-bade6d653c0b)
 
 
 
