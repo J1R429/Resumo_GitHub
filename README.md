@@ -3,7 +3,7 @@
 #Índice 🗃️
 <u>* Introdução</u>
 * [Definição](#Definição)
-* Repositório
+* [Repositório](#Repositório)
 * Iniciar e gerenciar um novo branch
 * Fazer alterações em um arquivo e enviá-los por push para GitHub Enterprise Cloud como commits
 * Bifurcar um repositório - FORK
